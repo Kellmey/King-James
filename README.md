@@ -1,2 +1,2 @@
 # King-James
-A static web page used to display marketing campaigns. Tech stack used HTML, CSS, Bootstrap
+A static web page used to display marketing campaigns for King James Digtal. Tech stack used HTML & CSS.
